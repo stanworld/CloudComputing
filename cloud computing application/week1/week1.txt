@@ -1,0 +1,8 @@
+1. Openstack VS AWS
+
+2. SOAP is for remote procedure call. REST is for accessing remote data, objects.
+
+3. REST: 
+   1) URI
+   2) HTTP GET, POST, PUT, DELETE
+   3) Representation using JSON or XML.

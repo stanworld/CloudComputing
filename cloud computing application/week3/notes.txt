@@ -1,0 +1,9 @@
+1. Real time data streaming system.
+2. load shedding.
+3. Hadoop is not suitable for real time stream processing.
+4. Cloud streaming engines: apache storm, twitter heron, apache flink.
+5. stream, spout, bolt, topology.
+6. Turple tree, at least one time processing, storm.
+7. Thrift in storm
+8. Storm code: java and clojure
+9. One Nimnus, talk to many supervisors(each supervisor runs on one machine). Each supervisor manages many workers (the multiple processes in a machine) and each work have many executors(threads). Each executor(thread) is for one task.

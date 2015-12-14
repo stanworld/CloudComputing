@@ -1,0 +1,13 @@
+1. Pregel: graph processing. C++. not open source.
+
+2. Apache Giraph: based on Pregel. 
+
+3. The competitor is Spark GraphX.
+
+4. Apache Mahout: machine learning and data mining
+
+5. Mahout's competitor is Spark MLlib. Mahout is more stable and right now it is still based on hadoop map reduce, used for collaborative filtering.
+
+6. Overall picture: Apache Kafka is publish-subscribe messaging rethought as a distributed commit log
+
+7. 

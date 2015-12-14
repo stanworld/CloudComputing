@@ -1,0 +1,12 @@
+1. Must first Map, then reduce.
+2. Has to think sovling problem in a map reduce way.
+3. Hadoop: job tracker(cluster head), task tracker
+4. Task tracker either run map, or reduce.
+5. Job tracker is the bottleneck for scaling. A single machine.
+6. That is why YARN. YARN(Yet Another Resource Negotiator) manages resources, can run mapreduce, streaming, and other applications, etc, on the same cluster.
+7. Hive is a database system based on HDFS using MapReduce to do its computations, initiated by facebook.
+8. Ceph is an emerging distributed file system to replace HDFS.
+9. Tez: data flow based on graphs, which get Pigs and Hives mapped down to mapreduce in YARN.
+10. Tez: translate the tasks to implement on YARN.
+
+11. Page ranking: propagation and aggregation.

@@ -1,0 +1,4 @@
+1. Brew's theorem:
+    cannot achieve consistency, availability and partition fault tolerence at the same time.
+
+2.
