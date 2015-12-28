@@ -1,0 +1,17 @@
+Following are references for some of the material covered:
+
+Pig Documentation:
+
+http://pig.apache.org/docs/r0.15.0/start.html
+
+Pig Latin basics:
+
+http://pig.apache.org/docs/r0.15.0/basic.html
+
+HIVE Language Manual:
+
+https://cwiki.apache.org/confluence/display/Hive/LanguageManual
+
+HBase Reference Guide:
+
+http://hbase.apache.org/book.html#arch.overview

@@ -1,0 +1,1 @@
+groupbyKey+ reduce is worse than reduceByKey. The latter can do the local reduce first before shuffling the data through networks, so that the communication load is lower than the first. 
